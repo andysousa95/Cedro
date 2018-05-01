@@ -1,0 +1,39 @@
+﻿@{
+    ViewBag.Tittle = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Listagem dos restaurantes<h2>
+
+    <div data-ng-controller = "restauranteController">
+        <div class="panel panel-default">
+            <div class="panel heading">Lista dos restaurantes</div>
+            <div class="panel body">
+                <div class="row">
+                    <div class ="col md-12">
+                        <strong>{{error}}</strong>
+                        </div>
+                    
+                <div class="row">
+                    <tr class "table-responsive">
+                        <table class="table table-bordered table-hover">
+                            <tr>
+                                <td>ID</td
+                                <td>Nome</td>
+                                <td>Email</td>
+                                <td>Data de Cadastro</td>
+                            </tr>
+                            <tr data-ng-repeat="restaurante in restaurantelista">
+                                <td>{{ restaurante.id }}</td>
+                                <td>{{ restaurante.nome }}</td>
+                                <td>{{ restaurante.email }}</td>
+                                <td>{{ restaurante.dt_cadastro }}</td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

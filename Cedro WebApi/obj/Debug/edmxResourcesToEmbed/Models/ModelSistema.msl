@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DB_cedroapiModelStoreContainer" CdmEntityContainer="DB_cedroapiEntities">
+    <EntitySetMapping Name="restaurante">
+      <EntityTypeMapping TypeName="DB_cedroapiModel.restaurante">
+        <MappingFragment StoreEntitySet="restaurante">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="nome" ColumnName="nome" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="dt_cadastro" ColumnName="dt_cadastro" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="prato">
+      <EntityTypeMapping TypeName="DB_cedroapiModel.prato">
+        <MappingFragment StoreEntitySet="prato">
+          <ScalarProperty Name="nome" ColumnName="nome" />
+          <ScalarProperty Name="dt_cadastro" ColumnName="dt_cadastro" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

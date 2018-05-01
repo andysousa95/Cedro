@@ -1,0 +1,102 @@
+D:\Cedro WebApi\Cedro WebApi\bin\Cedro WebApi.dll.config
+D:\Cedro WebApi\Cedro WebApi\bin\Cedro WebApi.dll
+D:\Cedro WebApi\Cedro WebApi\bin\Cedro WebApi.pdb
+D:\Cedro WebApi\Cedro WebApi\bin\Antlr3.Runtime.dll
+D:\Cedro WebApi\Cedro WebApi\bin\EntityFramework.dll
+D:\Cedro WebApi\Cedro WebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\Cedro WebApi\Cedro WebApi\bin\Newtonsoft.Json.dll
+D:\Cedro WebApi\Cedro WebApi\bin\System.Net.Http.Formatting.dll
+D:\Cedro WebApi\Cedro WebApi\bin\System.Web.Helpers.dll
+D:\Cedro WebApi\Cedro WebApi\bin\System.Web.Http.dll
+D:\Cedro WebApi\Cedro WebApi\bin\System.Web.Http.WebHost.dll
+D:\Cedro WebApi\Cedro WebApi\bin\System.Web.Mvc.dll
+D:\Cedro WebApi\Cedro WebApi\bin\System.Web.Optimization.dll
+D:\Cedro WebApi\Cedro WebApi\bin\System.Web.Razor.dll
+D:\Cedro WebApi\Cedro WebApi\bin\System.Web.WebPages.Deployment.dll
+D:\Cedro WebApi\Cedro WebApi\bin\System.Web.WebPages.dll
+D:\Cedro WebApi\Cedro WebApi\bin\System.Web.WebPages.Razor.dll
+D:\Cedro WebApi\Cedro WebApi\bin\WebGrease.dll
+D:\Cedro WebApi\Cedro WebApi\bin\EntityFramework.xml
+D:\Cedro WebApi\Cedro WebApi\bin\Newtonsoft.Json.xml
+D:\Cedro WebApi\Cedro WebApi\bin\System.Net.Http.Formatting.xml
+D:\Cedro WebApi\Cedro WebApi\bin\System.Web.Helpers.xml
+D:\Cedro WebApi\Cedro WebApi\bin\System.Web.Http.xml
+D:\Cedro WebApi\Cedro WebApi\bin\System.Web.Http.WebHost.xml
+D:\Cedro WebApi\Cedro WebApi\bin\System.Web.Mvc.xml
+D:\Cedro WebApi\Cedro WebApi\bin\System.Web.Optimization.xml
+D:\Cedro WebApi\Cedro WebApi\bin\System.Web.Razor.xml
+D:\Cedro WebApi\Cedro WebApi\bin\System.Web.WebPages.xml
+D:\Cedro WebApi\Cedro WebApi\bin\System.Web.WebPages.Deployment.xml
+D:\Cedro WebApi\Cedro WebApi\bin\System.Web.WebPages.Razor.xml
+D:\Cedro WebApi\Cedro WebApi\bin\Antlr3.Runtime.pdb
+D:\Cedro WebApi\Cedro WebApi\obj\Debug\Cedro WebApi.dll
+D:\Cedro WebApi\Cedro WebApi\obj\Debug\Cedro WebApi.pdb
+E:\Cedro WebApi\Cedro WebApi\bin\Cedro WebApi.dll.config
+E:\Cedro WebApi\Cedro WebApi\bin\Cedro WebApi.dll
+E:\Cedro WebApi\Cedro WebApi\bin\Cedro WebApi.pdb
+E:\Cedro WebApi\Cedro WebApi\bin\Antlr3.Runtime.dll
+E:\Cedro WebApi\Cedro WebApi\bin\EntityFramework.dll
+E:\Cedro WebApi\Cedro WebApi\bin\Microsoft.Web.Infrastructure.dll
+E:\Cedro WebApi\Cedro WebApi\bin\Newtonsoft.Json.dll
+E:\Cedro WebApi\Cedro WebApi\bin\System.Net.Http.Formatting.dll
+E:\Cedro WebApi\Cedro WebApi\bin\System.Web.Helpers.dll
+E:\Cedro WebApi\Cedro WebApi\bin\System.Web.Http.dll
+E:\Cedro WebApi\Cedro WebApi\bin\System.Web.Http.WebHost.dll
+E:\Cedro WebApi\Cedro WebApi\bin\System.Web.Mvc.dll
+E:\Cedro WebApi\Cedro WebApi\bin\System.Web.Optimization.dll
+E:\Cedro WebApi\Cedro WebApi\bin\System.Web.Razor.dll
+E:\Cedro WebApi\Cedro WebApi\bin\System.Web.WebPages.Deployment.dll
+E:\Cedro WebApi\Cedro WebApi\bin\System.Web.WebPages.dll
+E:\Cedro WebApi\Cedro WebApi\bin\System.Web.WebPages.Razor.dll
+E:\Cedro WebApi\Cedro WebApi\bin\WebGrease.dll
+E:\Cedro WebApi\Cedro WebApi\bin\EntityFramework.xml
+E:\Cedro WebApi\Cedro WebApi\bin\Newtonsoft.Json.xml
+E:\Cedro WebApi\Cedro WebApi\bin\System.Net.Http.Formatting.xml
+E:\Cedro WebApi\Cedro WebApi\bin\System.Web.Helpers.xml
+E:\Cedro WebApi\Cedro WebApi\bin\System.Web.Http.xml
+E:\Cedro WebApi\Cedro WebApi\bin\System.Web.Http.WebHost.xml
+E:\Cedro WebApi\Cedro WebApi\bin\System.Web.Mvc.xml
+E:\Cedro WebApi\Cedro WebApi\bin\System.Web.Optimization.xml
+E:\Cedro WebApi\Cedro WebApi\bin\System.Web.Razor.xml
+E:\Cedro WebApi\Cedro WebApi\bin\System.Web.WebPages.xml
+E:\Cedro WebApi\Cedro WebApi\bin\System.Web.WebPages.Deployment.xml
+E:\Cedro WebApi\Cedro WebApi\bin\System.Web.WebPages.Razor.xml
+E:\Cedro WebApi\Cedro WebApi\bin\Antlr3.Runtime.pdb
+E:\Cedro WebApi\Cedro WebApi\obj\Debug\Cedro WebApi.csprojResolveAssemblyReference.cache
+E:\Cedro WebApi\Cedro WebApi\obj\Debug\Cedro WebApi.dll
+E:\Cedro WebApi\Cedro WebApi\obj\Debug\Cedro WebApi.pdb
+C:\Users\Andrey\Documents\Cedro WebApi\Cedro WebApi\bin\Cedro WebApi.dll
+C:\Users\Andrey\Documents\Cedro WebApi\Cedro WebApi\bin\Cedro WebApi.pdb
+C:\Users\Andrey\Documents\Cedro WebApi\Cedro WebApi\bin\Antlr3.Runtime.dll
+C:\Users\Andrey\Documents\Cedro WebApi\Cedro WebApi\bin\EntityFramework.dll
+C:\Users\Andrey\Documents\Cedro WebApi\Cedro WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Andrey\Documents\Cedro WebApi\Cedro WebApi\bin\Newtonsoft.Json.dll
+C:\Users\Andrey\Documents\Cedro WebApi\Cedro WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Andrey\Documents\Cedro WebApi\Cedro WebApi\bin\System.Web.Helpers.dll
+C:\Users\Andrey\Documents\Cedro WebApi\Cedro WebApi\bin\System.Web.Http.dll
+C:\Users\Andrey\Documents\Cedro WebApi\Cedro WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Andrey\Documents\Cedro WebApi\Cedro WebApi\bin\System.Web.Mvc.dll
+C:\Users\Andrey\Documents\Cedro WebApi\Cedro WebApi\bin\System.Web.Optimization.dll
+C:\Users\Andrey\Documents\Cedro WebApi\Cedro WebApi\bin\System.Web.Razor.dll
+C:\Users\Andrey\Documents\Cedro WebApi\Cedro WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Andrey\Documents\Cedro WebApi\Cedro WebApi\bin\System.Web.WebPages.dll
+C:\Users\Andrey\Documents\Cedro WebApi\Cedro WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Andrey\Documents\Cedro WebApi\Cedro WebApi\bin\WebGrease.dll
+C:\Users\Andrey\Documents\Cedro WebApi\Cedro WebApi\bin\EntityFramework.xml
+C:\Users\Andrey\Documents\Cedro WebApi\Cedro WebApi\bin\Newtonsoft.Json.xml
+C:\Users\Andrey\Documents\Cedro WebApi\Cedro WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Andrey\Documents\Cedro WebApi\Cedro WebApi\bin\System.Web.Helpers.xml
+C:\Users\Andrey\Documents\Cedro WebApi\Cedro WebApi\bin\System.Web.Http.xml
+C:\Users\Andrey\Documents\Cedro WebApi\Cedro WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Andrey\Documents\Cedro WebApi\Cedro WebApi\bin\System.Web.Mvc.xml
+C:\Users\Andrey\Documents\Cedro WebApi\Cedro WebApi\bin\System.Web.Optimization.xml
+C:\Users\Andrey\Documents\Cedro WebApi\Cedro WebApi\bin\System.Web.Razor.xml
+C:\Users\Andrey\Documents\Cedro WebApi\Cedro WebApi\bin\System.Web.WebPages.xml
+C:\Users\Andrey\Documents\Cedro WebApi\Cedro WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Andrey\Documents\Cedro WebApi\Cedro WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Andrey\Documents\Cedro WebApi\Cedro WebApi\bin\Antlr3.Runtime.pdb
+C:\Users\Andrey\Documents\Cedro WebApi\Cedro WebApi\obj\Debug\Cedro WebApi.dll
+C:\Users\Andrey\Documents\Cedro WebApi\Cedro WebApi\obj\Debug\Cedro WebApi.pdb
+C:\Users\Andrey\Documents\Cedro WebApi\Cedro WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\Andrey\Documents\Cedro WebApi\Cedro WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\Andrey\Documents\Cedro WebApi\Cedro WebApi\obj\Debug\Cedro WebApi.csprojResolveAssemblyReference.cache

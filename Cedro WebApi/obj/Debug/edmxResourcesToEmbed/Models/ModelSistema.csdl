@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DB_cedroapiModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="restaurante">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="nome" Type="String" MaxLength="60" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="email" Type="String" MaxLength="40" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="dt_cadastro" Type="DateTime" Nullable="false" Precision="3" />
+  </EntityType>
+  <EntityType Name="prato">
+    <Key>
+      <PropertyRef Name="nome" />
+      <PropertyRef Name="dt_cadastro" />
+    </Key>
+    <Property Name="nome" Type="String" MaxLength="60" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="dt_cadastro" Type="String" MaxLength="60" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="DB_cedroapiEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="restaurante" EntityType="Self.restaurante" />
+    <EntitySet Name="prato" EntityType="Self.prato" />
+  </EntityContainer>
+</Schema>

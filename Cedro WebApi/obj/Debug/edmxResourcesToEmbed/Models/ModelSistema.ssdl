@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DB_cedroapiModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'DB_cedroapi.dbo.prato' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="prato">
+    <Key>
+      <PropertyRef Name="nome" />
+      <PropertyRef Name="dt_cadastro" />
+    </Key>
+    <Property Name="nome" Type="varchar" MaxLength="60" Nullable="false" />
+    <Property Name="dt_cadastro" Type="varchar" MaxLength="60" Nullable="false" />
+  </EntityType>
+  <EntityType Name="restaurante">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" />
+    <Property Name="nome" Type="varchar" MaxLength="60" Nullable="false" />
+    <Property Name="email" Type="varchar" MaxLength="40" Nullable="false" />
+    <Property Name="dt_cadastro" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="DB_cedroapiModelStoreContainer">
+    <EntitySet Name="restaurante" EntityType="Self.restaurante" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="prato" EntityType="Self.prato" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+[prato].[nome] AS [nome], 
+[prato].[dt_cadastro] AS [dt_cadastro]
+FROM [dbo].[prato] AS [prato]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>
